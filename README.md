@@ -1,4 +1,4 @@
-# Dappazon
+# Ecommerce DApp
 
 ## Technology Stack & Tools
 
